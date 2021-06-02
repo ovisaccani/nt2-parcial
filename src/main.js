@@ -17,7 +17,7 @@ import './form'
 //https://github.com/axios/axios
 //https://www.npmjs.com/package/axios
 //npm i axios vue-axios
-import './httpClient'
+
 
 Vue.config.productionTip = false
 
